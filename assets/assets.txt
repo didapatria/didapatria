@@ -1,0 +1,17 @@
+Nama : Adinda Fadhil Patria
+NRP : 193040052
+Kelas : B SENIN 15:40
+
+-----------------------------------------------------
+{(No.), (Company), (Title), (File), (Link), (Time)}
+
+1, Unplash, Best 20+ Design Pictures [HD], aleks-dorohovich-nJdwUHmaY8A-unsplash.jpg, https://unsplash.com/photos/nJdwUHmaY8A diakses tanggal 19 Desember 2019 jam 10:05 WIB
+
+2, Unplash, Best 500+ Education Images [HD], krisztian-tabori-IyaNci0CyRk-unsplash,jpg, https://unsplash.com/photos/IyaNci0CyRk diakses tanggal 20 Desember 2019 jam 13:59 WIB
+
+3, JQuery, Download JQuery, jquery-3.4.1.min.js, https://jquery.com/download/ diakses tanggal 21 Desember 2019 jam 01:09 WIB
+
+4, Google Fonts, Amaranth - Google Fonts, font-amaranth.css, https://fonts.google.com/specimen/Amaranth?selection.family=Amaranth diakses tanggal 21 Desember 2019 jam 02:31 WIB
+
+5, Unplash, 100+ Patterns Pictures [HD], jason-leung-UMncYEfO9-U-unsplash.jpg, https://unsplash.com/photos/UMncYEfO9-U diakses tanggal 21 Desember jam 04:08 WIB
+-----------------------------------------------------
