@@ -1,7 +1,10 @@
 <h1> Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" /> What's up?</h1>
 <div>
-  <span>My name is <b>Adinda Fadhil Patria</b>, but you can call me <b>Dida</b>. I'm a <b>Front-End Web Developer</b> from Subang Regency, West Java, Indonesia. </span>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/1280px-Flag_of_Indonesia.svg.png" alt="Indonesian Flag" width="20"/> 
+  <div>My name is <b>Adinda Fadhil Patria</b>, but you can call me <b>Dida</b>.</div>
+  <div>
+    <span>I'm a <b>Front-End Web Developer</b> from Subang Regency, West Java, Indonesia. </span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/1280px-Flag_of_Indonesia.svg.png" alt="Indonesian Flag" width="20"/>
+  </div>
 </div>
 
 ## About Me
