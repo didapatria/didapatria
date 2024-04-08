@@ -34,12 +34,15 @@
   <img src="https://titrias.com/files/2022/04/typescript.png" alt="TypeScript Logo" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" alt="React.js Logo" height="50"/>
   <img src="https://nextjs.org/favicon.ico" alt="Next.js Logo" height="50"/>
-  <img src="https://redux-toolkit.js.org/img/redux.svg" alt="Redux Toolkit Logo" height="50"/>
+  <img src="https://nextui.org/apple-touch-icon.png" alt="NextUI Logo" height="50"/>
   <img src="https://cdn.discordapp.com/attachments/1215492374017478678/1226700609135312906/apple-touch-icon-removebg-preview.png?ex=6625b8f8&is=661343f8&hm=740c6c016e143f73db6c57ba920c5afeaa883b31041673aa796a3435af7530a5&" alt="Tailwind CSS Logo" height="50"/>
+  <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="Next Auth Logo" height="50"/>
+  <img src="https://redux-toolkit.js.org/img/redux.svg" alt="Redux Toolkit Logo" height="50"/>
+  <img src="https://nodejs.org/static/images/favicons/favicon.png" alt="Node.js Logo" height="50"/>
   <img src="https://www.prisma.io/images/apple-touch-icon.png" alt="Prisma ORM Logo" height="50"/>
   <img src="https://www.gstatic.com/devrel-devsite/prod/v66c4dc9b65fea2172a0927d7be81b5b5d946ea60fc02578dd7c264b2c2852152/firebase/images/touchicon-180.png" alt="Firebase Logo" height="50"/>
+  <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Logo" height="50"/>
   <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="GIT Logo" height="50"/>
   <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap Logo" height="50"/>
   <img src="https://materializecss.com/res/materialize.svg" alt="Materialize Logo" height="50" width="50"/>
-  <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Logo" height="50"/>
 </div>
