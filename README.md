@@ -17,9 +17,9 @@
 ## Github Statistics
 <div align="left"> 
   <a href="https://github.com/didapatria">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=didapatria&show_icons=true&locale=en&theme=react&include_all_commits=true%22&card_width=400" />
-    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=didapatria&show_icons=true&locale=en&theme=react&layout=compact&langs_count=8&card_width=400" />
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=didapatria&show_icons=true&locale=en&theme=react&include_all_commits=true&count_private=true&card_width=900" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=didapatria&show_icons=true&locale=en&theme=react&include_all_commits=true%22&card_width=350" />
+    <img height="200" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=didapatria&show_icons=true&locale=en&theme=react&layout=compact&langs_count=8&card_width=350" />
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=didapatria&show_icons=true&locale=en&theme=react&include_all_commits=true&count_private=true&card_width=850" />
   </a>
 </div>
 
