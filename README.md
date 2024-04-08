@@ -5,7 +5,7 @@
 </div>
 
 ## About Me
-<img align="right" alt="Square GIF" height="200" src="https://cdn.discordapp.com/attachments/1215492374017478678/1226720114037100594/sugarmints_artblog___Photo.gif?ex=6625cb22&is=66135622&hm=ea3053dd3f321b3c905f799af1d061d60a136aa0836690bd2d78cf4e7998a274&" />
+<img align="right" alt="Square GIF" height="175" src="https://cdn.discordapp.com/attachments/1215492374017478678/1226720114037100594/sugarmints_artblog___Photo.gif?ex=6625cb22&is=66135622&hm=ea3053dd3f321b3c905f799af1d061d60a136aa0836690bd2d78cf4e7998a274&" />
 
 - 🌟 Passionate about creating delightful and user-friendly web experiences.
 - 🎓 Graduated from [Universitas Pasundan](https://www.unpas.ac.id/) with a degree in Informatics Engineering.
