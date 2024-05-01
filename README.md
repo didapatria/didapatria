@@ -12,7 +12,7 @@
 
 - 🌟 Passionate about creating delightful and user-friendly web experiences.
 - 🎓 Graduated from [Universitas Pasundan](https://www.unpas.ac.id/) with a degree in Informatics Engineering.
-- ~~💼 Currently working as a Front-End Web Developer at [-](https://).~~
+- 💼 Currently working as a Junior Software Engineer at [Conscentia Future Tech](https://github.com/didapatria).
 - 🌱 Constantly learning and exploring new technologies to enhance my skills.
 - 📫 You can reach me via email at [didapatria3@gmail.com](mailto:didapatria3@gmail.com).
 - ~~🚀 Visit my portfolio at [-](https://).~~
