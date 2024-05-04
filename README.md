@@ -35,7 +35,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" alt="React.js Logo" height="50"/>
   <img src="https://nextjs.org/favicon.ico" alt="Next.js Logo" height="50"/>
   <img src="https://nextui.org/apple-touch-icon.png" alt="NextUI Logo" height="50"/>
-  <img src="https://mwop.net/images/tailwindcss.svg" alt="Tailwind CSS Logo" height="50"/>
+  <img src="https://mwop.net/images/tailwindcss.svg" alt="Tailwind CSS Logo" height="50" width="50"/>
   <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="Next Auth Logo" height="50"/>
   <img src="https://redux-toolkit.js.org/img/redux.svg" alt="Redux Toolkit Logo" height="50"/>
   <img src="https://nodejs.org/static/images/favicons/favicon.png" alt="Node.js Logo" height="50"/>
