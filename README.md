@@ -8,7 +8,7 @@
 </div>
 
 ## About Me
-<img align="right" alt="Square GIF" height="175" src="https://cdn.discordapp.com/attachments/1215492374017478678/1226720114037100594/sugarmints_artblog___Photo.gif?ex=6625cb22&is=66135622&hm=ea3053dd3f321b3c905f799af1d061d60a136aa0836690bd2d78cf4e7998a274&" />
+<img align="right" alt="✮ sugarmints artblog ✮" height="175" src="./assets/gif/✮ sugarmints artblog ✮.gif" />
 
 - 🌟 Passionate about creating delightful and user-friendly web experiences.
 - 🎓 Graduated from [Universitas Pasundan](https://www.unpas.ac.id/) with a degree in Informatics Engineering.
@@ -35,7 +35,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" alt="React.js Logo" height="50"/>
   <img src="https://nextjs.org/favicon.ico" alt="Next.js Logo" height="50"/>
   <img src="https://nextui.org/apple-touch-icon.png" alt="NextUI Logo" height="50"/>
-  <img src="https://cdn.discordapp.com/attachments/1215492374017478678/1226700609135312906/apple-touch-icon-removebg-preview.png?ex=6632e7f8&is=66319678&hm=f5d4d9d69650096d34eb28df9cd542160668c39ab4d20609dd6f40c9dc4bb2af&" alt="Tailwind CSS Logo" height="50"/>
+  <img src="https://mwop.net/images/tailwindcss.svg" alt="Tailwind CSS Logo" height="50"/>
   <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="Next Auth Logo" height="50"/>
   <img src="https://redux-toolkit.js.org/img/redux.svg" alt="Redux Toolkit Logo" height="50"/>
   <img src="https://nodejs.org/static/images/favicons/favicon.png" alt="Node.js Logo" height="50"/>
