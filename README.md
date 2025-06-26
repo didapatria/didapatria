@@ -2,7 +2,7 @@
 <div>
   <div>My name is <b>Adinda Fadhil Patria</b>, but you can call me <b>Dida</b>.</div>
   <div>
-    <span>I'm a <b>Junior Software Engineer</b> from South Jakarta, Indonesia. </span>
+    <span>I'm a <b>Junior Software Engineer</b> from South Jakarta, Jakarta, Indonesia. </span>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/1280px-Flag_of_Indonesia.svg.png" alt="Indonesian Flag" width="20"/>
   </div>
 </div>
