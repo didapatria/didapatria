@@ -2,7 +2,7 @@
 <div>
   <div>My name is <b>Adinda Fadhil Patria</b>, but you can call me <b>Dida</b>.</div>
   <div>
-    <span>I'm a <b>Junior Software Engineer</b> from South Jakarta, Jakarta, Indonesia. </span>
+    <span>I'm a <b>Software Engineer Specialist</b> from South Jakarta, Jakarta, Indonesia. </span>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/1280px-Flag_of_Indonesia.svg.png" alt="Indonesian Flag" width="20"/>
   </div>
 </div>
@@ -12,7 +12,7 @@
 
 - 🌟 Passionate about creating delightful and user-friendly web experiences.
 - 🎓 Graduated from [Universitas Pasundan](https://www.unpas.ac.id/) with a degree in Informatics Engineering.
-- 💼 Currently working as a Junior Software Engineer at [The One Retail](https://alturian.co/).
+- 💼 Currently working as a Software Engineer Specialist at [Alturian Indonesia](https://alturian.co/).
 - 🌱 Constantly learning and exploring new technologies to enhance my skills.
 - 📫 You can reach me via email at [didapatria3@gmail.com](mailto:didapatria3@gmail.com).
 - ~~🚀 Visit my portfolio at [-](https://).~~
