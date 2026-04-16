@@ -12,7 +12,7 @@
 
 - 🌟 Passionate about creating delightful and user-friendly web experiences.
 - 🎓 Graduated from [Universitas Pasundan](https://www.unpas.ac.id/) with a degree in Informatics Engineering.
-- 💼 Currently working as a Software Engineer Specialist at [Alturian Indonesia](https://alturian.co/).
+- 💼 Currently working as a Software Engineer Specialist at [Alturian Group](https://alturian.co/).
 - 🌱 Constantly learning and exploring new technologies to enhance my skills.
 - 📫 You can reach me via email at [didapatria3@gmail.com](mailto:didapatria3@gmail.com).
 - ~~🚀 Visit my portfolio at [-](https://).~~
