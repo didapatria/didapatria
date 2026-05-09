@@ -6,6 +6,14 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/1280px-Flag_of_Indonesia.svg.png" alt="Indonesian Flag" width="20"/>
   </div>
 </div>
+<p align="left">
+  <a href="https://linkedin.com/in/didapatria">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/didapatria">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 ## About Me
 <img align="right" alt="✮ sugarmints artblog ✮" height="175" src="./assets/gif/✮ sugarmints artblog ✮.gif" />
