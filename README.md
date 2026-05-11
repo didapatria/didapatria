@@ -19,9 +19,10 @@
 <img align="right" alt="✮ sugarmints artblog ✮" height="175" src="./assets/gif/✮ sugarmints artblog ✮.gif" />
 
 - 🌟 Passionate about building scalable, maintainable, and user-focused digital products.
-- 💼 Software Engineer with experience building scalable web, backend, and mobile applications across multiple production environments.
-- ⚡ Experienced in enterprise web applications, internal systems, and API integrations.
-- 🌱 Constantly learning and exploring new technologies to enhance my skills.
+- 💼 Software Engineer focused on scalable web applications, backend systems, and enterprise platforms.
+- ⚡ Experienced in React, Node.js, Express, Laravel, and modern JavaScript ecosystems.
+- 🏗️ Interested in clean architecture, maintainable systems, and developer experience.
+- 🌱 Constantly learning and improving software engineering best practices.
 - 🎓 Graduated from [Universitas Pasundan](https://www.unpas.ac.id/) with a degree in Informatics Engineering.
 - 📫 You can reach me via email at [didapatria3@gmail.com](mailto:didapatria3@gmail.com).
 - ~~🚀 Visit my portfolio at [-](https://).~~
@@ -37,5 +38,5 @@
 
 ## Languages & Tools
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,vue,laravel,php,nodejs,express,prisma,mysql,postgres,tailwind,vite,docker,firebase,redux,git,github,githubactions,postman,vitest,jest,npm,bootstrap,materialui,figma,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,vue,nodejs,express,laravel,php,prisma,mysql,postgres,redis,firebase,redux,tailwind,materialui,vite,docker,git,github,githubactions,postman,vitest,jest,npm,linux,figma,html,css" />
 </div>
