@@ -18,14 +18,15 @@
 ## About Me
 <img align="right" alt="✮ sugarmints artblog ✮" height="175" src="./assets/gif/✮ sugarmints artblog ✮.gif" />
 
-- 🌟 Passionate about building scalable, maintainable, and user-focused digital products.
-- 💼 Software Engineer focused on scalable web applications, backend systems, and enterprise platforms.
-- ⚡ Experienced in React, Node.js, Express, Laravel, and modern JavaScript ecosystems.
-- 🏗️ Interested in clean architecture, maintainable systems, and developer experience.
-- 🌱 Constantly learning and improving software engineering best practices.
-- 🎓 Graduated from [Universitas Pasundan](https://www.unpas.ac.id/) with a degree in Informatics Engineering.
-- 📫 You can reach me via email at [didapatria3@gmail.com](mailto:didapatria3@gmail.com).
-- ~~🚀 Visit my portfolio at [-](https://).~~
+- 💼 Software Engineer focused on enterprise web applications, backend systems, and internal platforms.
+- 🚆 Currently building internal enterprise applications using React, Express.js, JavaScript, Material UI, Redux, and PostgreSQL.
+- ⚡ Experienced with React, Next.js, Vue.js, Angular, Laravel, Node.js, Express.js, TypeScript, and SQL databases.
+- 🏗️ Passionate about clean architecture, scalable systems, API design, and maintainable code.
+- 🌱 Always learning software engineering best practices and modern technologies.
+- 🎓 Bachelor's Degree in Informatics Engineering from [Universitas Pasundan](https://www.unpas.ac.id/).
+- 🚀 Building side projects to explore modern architectures and engineering practices.
+- 📫 Reach me at **didapatria3@gmail.com**
+- 🌐 Portfolio: https://didapatria.vercel.app
 
 ## Github Statistics
 <div align="left"> 
